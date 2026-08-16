@@ -4,6 +4,8 @@
 
 package com.mycompany.practical3;
 
+import com.mycompany.practical3.Dayvisitor;
+
 /**
  *
  * @author emeris
